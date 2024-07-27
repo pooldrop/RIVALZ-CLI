@@ -41,7 +41,7 @@ apt install -y nodejs
 nodejs -v
 ```
 
-## install rivalz
+## Install rivalz
 
 
 
